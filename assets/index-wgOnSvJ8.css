@@ -1,1 +1,0 @@
-.main{display:flex;height:100vh;flex-direction:column;background-color:#a9a9a9}.chat-history{display:flex;flex-direction:column;font-size:xx-large}.chat-history>.userInput{display:flex;justify-content:flex-end;background-color:#858383}.chatandbutt{display:flex;gap:5px;position:fixed;bottom:40px;left:35%}.chatArea{height:30px;width:50vh;border-radius:10px}.send{border-radius:30%}
