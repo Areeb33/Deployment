@@ -1,11 +1,12 @@
-import "./App.css";
+import React from "react";
+import ChatBot_Component from "./ChatBot_Component";
 
-function App() {
+const App = () => {
   return (
-    <>
-      <h1>Vite + React</h1>
-    </>
+    <div>
+      <ChatBot_Component />
+    </div>
   );
-}
+};
 
 export default App;
